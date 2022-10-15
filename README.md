@@ -1,6 +1,6 @@
-# NLW Desafio
+# EXERCÍCIO
 
-![preview](/login/preview.png)
+![preview](preview.png)
 
 > Exercício
 Tela de login 
